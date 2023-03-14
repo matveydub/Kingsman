@@ -7,5 +7,5 @@
 
 <b>Структура базы данных</b>
 
-![image](https://user-images.githubusercontent.com/80783715/224300952-686c4659-29cd-4ca0-9963-bf7d9ec41791.png)
+![image](https://user-images.githubusercontent.com/80783715/224987098-c7ecb895-f342-4620-95cf-5715b0c372ec.png)
 
