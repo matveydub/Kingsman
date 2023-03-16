@@ -9,3 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/80783715/224987098-c7ecb895-f342-4620-95cf-5715b0c372ec.png)
 
+<b>Дизайн окна авторизации</b>
+
+![image](https://user-images.githubusercontent.com/80783715/225631608-1f2c732b-70f1-4295-9a4d-f6753c5b0024.png)
