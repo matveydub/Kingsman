@@ -11,4 +11,4 @@
 
 <b>Дизайн окна авторизации</b>
 
-![image](https://user-images.githubusercontent.com/80783715/225631608-1f2c732b-70f1-4295-9a4d-f6753c5b0024.png)
+![image](https://user-images.githubusercontent.com/80783715/225836326-3688c056-4db1-454d-b4a9-0941ea7809ef.png)
