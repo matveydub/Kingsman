@@ -20,3 +20,8 @@
 <b>Вывод данных через DataGrid</b>
 
 ![image](https://user-images.githubusercontent.com/80783715/226537930-1a074926-9f90-4d6b-afd8-04a797d105e2.png)
+
+<b>Список услуг через ListView</b>
+
+![image](https://user-images.githubusercontent.com/80783715/226593437-8070241a-863b-4495-badc-66dea839e0c7.png)
+
