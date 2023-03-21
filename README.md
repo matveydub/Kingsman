@@ -12,3 +12,11 @@
 <b>Дизайн окна авторизации</b>
 
 ![image](https://user-images.githubusercontent.com/80783715/225836326-3688c056-4db1-454d-b4a9-0941ea7809ef.png)
+
+<b>Логика работы окна авторизации</b>
+
+![image](https://user-images.githubusercontent.com/80783715/226537782-1278aedc-57c2-4c67-aece-3045fc7c13a5.png)
+
+<b>Вывод данных через DataGrid</b>
+
+![image](https://user-images.githubusercontent.com/80783715/226537930-1a074926-9f90-4d6b-afd8-04a797d105e2.png)
