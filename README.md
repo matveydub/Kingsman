@@ -23,5 +23,5 @@
 
 <b>Список услуг через ListView</b>
 
-![image](https://user-images.githubusercontent.com/80783715/226593437-8070241a-863b-4495-badc-66dea839e0c7.png)
+![image](https://user-images.githubusercontent.com/80783715/227509279-667a3319-e241-4739-8899-15dbc15c0d3e.png)
 
