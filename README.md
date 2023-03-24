@@ -25,3 +25,6 @@
 
 ![image](https://user-images.githubusercontent.com/80783715/227509279-667a3319-e241-4739-8899-15dbc15c0d3e.png)
 
+<b>Окно регистрации</b>
+
+![image](https://user-images.githubusercontent.com/80783715/227509504-f26c91a3-e67f-4dfb-980e-674546db3cc9.png)
