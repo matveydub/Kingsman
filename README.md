@@ -28,3 +28,7 @@
 <b>Окно регистрации</b>
 
 ![image](https://user-images.githubusercontent.com/80783715/227509504-f26c91a3-e67f-4dfb-980e-674546db3cc9.png)
+
+<b>Окно добавления услуги</b>
+
+![image](https://user-images.githubusercontent.com/80783715/229746345-b0d0939a-9e4d-4df5-8c5e-0cf2c23cff10.png)
