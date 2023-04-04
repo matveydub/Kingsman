@@ -31,4 +31,5 @@
 
 <b>Окно добавления услуги</b>
 
-![image](https://user-images.githubusercontent.com/80783715/229746345-b0d0939a-9e4d-4df5-8c5e-0cf2c23cff10.png)
+![image](https://user-images.githubusercontent.com/80783715/229746689-1179b711-3229-4a5d-8779-49b56112abe6.png)
+
