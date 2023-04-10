@@ -36,3 +36,6 @@
 <b>Окно редактирования услуги</b>
 
 ![image](https://user-images.githubusercontent.com/80783715/230601432-1320ee5f-5aa3-4db9-a2fb-09298b9e1efc.png)
+
+<b>Главное окно</b>
+![image](https://user-images.githubusercontent.com/80783715/230915075-071c6bf1-215a-4153-96c8-715448283186.png)
