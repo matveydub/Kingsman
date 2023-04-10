@@ -39,3 +39,9 @@
 
 <b>Главное окно</b>
 ![image](https://user-images.githubusercontent.com/80783715/230915075-071c6bf1-215a-4153-96c8-715448283186.png)
+
+<b>Список клиентов</b>
+![image](https://user-images.githubusercontent.com/80783715/230915256-3f01a44a-75ba-448f-bf3f-5dcaaeda29bc.png)
+
+<b>Список сотрудников</b>
+![image](https://user-images.githubusercontent.com/80783715/230915331-7f8f7b99-fb6d-4318-bd49-57e8791596df.png)
