@@ -45,3 +45,7 @@
 
 <b>Список сотрудников</b>
 ![image](https://user-images.githubusercontent.com/80783715/230915331-7f8f7b99-fb6d-4318-bd49-57e8791596df.png)
+
+<b>Корзина</b>
+![image](https://user-images.githubusercontent.com/80783715/231146884-fdec8296-6ddf-4eff-95b1-a0c658f59c3f.png)
+
