@@ -49,3 +49,5 @@
 <b>Корзина</b>
 ![image](https://user-images.githubusercontent.com/80783715/231146884-fdec8296-6ddf-4eff-95b1-a0c658f59c3f.png)
 
+<b>Добавление заказа в базу</b>
+![image](https://user-images.githubusercontent.com/80783715/231744110-04b5cb31-2f28-448b-9d6c-cbb016c43d64.png)
