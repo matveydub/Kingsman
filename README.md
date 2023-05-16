@@ -54,3 +54,23 @@
 
 <b>Обновленное корзина с количеством услуг и возможностью прибавления/уменьшения/удаления
 ![image](https://user-images.githubusercontent.com/80783715/234262031-1ae07321-410e-4e0e-b90b-9eba28ab67da.png)
+
+<b>Список клиентов с кнопкми добавления и редактирования</b>
+![image](https://github.com/matveydub/Kingsman/assets/80783715/9c4d423f-e6a8-441a-b89f-fa8c84e44bcc)
+ 
+  <b>Окно редактирования клиента</b>
+  ![image](https://github.com/matveydub/Kingsman/assets/80783715/99654f47-7c6f-4b81-8bc0-6bf2ea2fae63)
+
+  <b>Окно добавления клиента</b>
+  ![image](https://github.com/matveydub/Kingsman/assets/80783715/792c37fb-a350-4a30-aa00-9cd888f6c606)
+
+  <b>Окно редактирования сотрудника</b>
+  ![image](https://github.com/matveydub/Kingsman/assets/80783715/c085ebbe-bc72-4a30-9341-006408546a91)
+
+  <b>Окно добавления сотрудника</b>
+  ![image](https://github.com/matveydub/Kingsman/assets/80783715/efbff231-5ce3-4b55-b099-6befc3b9d02b)
+
+  <b>Окно отчётов</b>
+  ![image](https://github.com/matveydub/Kingsman/assets/80783715/23303767-b9da-4a94-9aeb-b0d4b76a510a)
+
+  
